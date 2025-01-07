@@ -14,7 +14,7 @@ new Vue({
             artist: "ABCD2",
             cover: "https://iili.io/2eGzfbj.jpg",
             source: "mp3/1.mp3",
-            url: "https://www.youtube.com/watch?v=2S24-y0Ij3Y&ab_channel=BLACKPINK",
+            url: "https://youtu.be/TGpG56pg3UU?feature=shared",
             favorited: false
           },
           {
